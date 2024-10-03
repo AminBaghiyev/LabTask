@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AB205-CA-Amin/1.0.0": {
+        "runtime": {
+          "AB205-CA-Amin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AB205-CA-Amin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
