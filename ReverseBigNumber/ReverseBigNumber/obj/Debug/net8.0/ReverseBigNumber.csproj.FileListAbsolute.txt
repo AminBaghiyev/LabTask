@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\bin\Debug\net8.0\ReverseBigNumber.exe
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\bin\Debug\net8.0\ReverseBigNumber.deps.json
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\bin\Debug\net8.0\ReverseBigNumber.runtimeconfig.json
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\bin\Debug\net8.0\ReverseBigNumber.dll
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\bin\Debug\net8.0\ReverseBigNumber.pdb
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.dll
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\refint\ReverseBigNumber.dll
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.pdb
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ReverseBigNumber.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\ReverseBigNumber\ReverseBigNumber\obj\Debug\net8.0\ref\ReverseBigNumber.dll
