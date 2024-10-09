@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\bin\Debug\net8.0\ArrayResize.exe
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\bin\Debug\net8.0\ArrayResize.deps.json
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\bin\Debug\net8.0\ArrayResize.runtimeconfig.json
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\bin\Debug\net8.0\ArrayResize.dll
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\bin\Debug\net8.0\ArrayResize.pdb
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.sourcelink.json
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.dll
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\refint\ArrayResize.dll
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.pdb
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ArrayResize.genruntimeconfig.cache
+C:\Users\USER\Desktop\AB205\ArrayResize\ArrayResize\obj\Debug\net8.0\ref\ArrayResize.dll
