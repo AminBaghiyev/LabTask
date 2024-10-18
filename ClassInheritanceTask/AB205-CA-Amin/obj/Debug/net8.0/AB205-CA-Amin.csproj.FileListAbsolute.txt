@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\bin\Debug\net8.0\AB205-CA-Amin.exe
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\bin\Debug\net8.0\AB205-CA-Amin.deps.json
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\bin\Debug\net8.0\AB205-CA-Amin.runtimeconfig.json
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\bin\Debug\net8.0\AB205-CA-Amin.dll
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\bin\Debug\net8.0\AB205-CA-Amin.pdb
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.dll
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\refint\AB205-CA-Amin.dll
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.pdb
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\AB205-CA-Amin.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\AB205-CA-Amin\AB205-CA-Amin\obj\Debug\net8.0\ref\AB205-CA-Amin.dll
