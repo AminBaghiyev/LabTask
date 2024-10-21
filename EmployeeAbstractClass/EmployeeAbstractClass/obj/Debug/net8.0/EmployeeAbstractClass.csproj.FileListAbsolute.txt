@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\bin\Debug\net8.0\EmployeeAbstractClass.exe
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\bin\Debug\net8.0\EmployeeAbstractClass.deps.json
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\bin\Debug\net8.0\EmployeeAbstractClass.runtimeconfig.json
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\bin\Debug\net8.0\EmployeeAbstractClass.dll
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\bin\Debug\net8.0\EmployeeAbstractClass.pdb
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.dll
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\refint\EmployeeAbstractClass.dll
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.pdb
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\EmployeeAbstractClass.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\EmployeeAbstractClass\EmployeeAbstractClass\obj\Debug\net8.0\ref\EmployeeAbstractClass.dll
