@@ -1,0 +1,15 @@
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.exe
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.deps.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\bin\Debug\net8.0\AcademyManagement.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.sourcelink.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\refint\AcademyManagement.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\AcademyManagement.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\AcademyManagement\AcademyManagement\obj\Debug\net8.0\ref\AcademyManagement.dll
