@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj": {}
+    "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj": {
+    "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj",
         "projectName": "AcademyManagement",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\AcademyManagement.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

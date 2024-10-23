@@ -1,4 +1,6 @@
-﻿namespace AcademyManagement.Models;
+﻿using AcademyManagement.Enums;
+
+namespace AcademyManagement.Models;
 
 internal class Student
 {
@@ -8,24 +10,37 @@ internal class Student
     public string Email { get; set; }
     public string PhoneNumber { get; set; }
     public double GPA { get; set; }
-    private string _status;
-    public string Status
+    private StudentStatus _status;
+    public StudentStatus? Status
     {
         get { return _status; }
         set
         {
+            string input = value.ToString();
             do
             {
-                if (value.ToLower() == "active" || value.ToLower() == "graduate" || value.ToLower() == "pending" || value.ToLower() == "removed")
+                if (Enum.TryParse(input, true, out StudentStatus result))
                 {
-                    _status = value;
+                    _status = result;
                     break;
                 }
-                Console.WriteLine("Enter student status (active, graduate, pending, removed): ");
-                value = Console.ReadLine();
+                Console.Write("Enter student status (active, graduate, pending, removed): ");
+                input = Console.ReadLine();
             }
             while (true);
         }
     }
     public string Major { get; set; }
+
+    public void ShowInfo()
+    {
+        Console.WriteLine($"ID: {Id}");
+        Console.WriteLine($"First name: {FirstName}");
+        Console.WriteLine($"Last name: {LastName}");
+        Console.WriteLine($"Email: {Email}");
+        Console.WriteLine($"Phone number: {PhoneNumber}");
+        Console.WriteLine($"GPA: {GPA}");
+        Console.WriteLine($"Status: {Status}");
+        Console.WriteLine($"Major: {Major}");
+    }
 }

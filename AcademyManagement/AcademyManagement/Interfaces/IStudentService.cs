@@ -4,10 +4,10 @@ namespace AcademyManagement.Interfaces;
 
 internal interface IStudentService
 {
-    Student GetStudentById(int id);
+    (Student? student, int index) GetStudentById(int id);
     Student[] GetAllStudents();
-    Student[] GetStudentsByName();
+    Student[] GetStudentsByName(string name);
     void CreateStudent(Student student);
-    void UpdateStudent(int id);
-    void RemoveStudent(int id, bool isSoftDelete);
+    bool UpdateStudent(int id);
+    bool RemoveStudent(int id, bool isSoftDelete);
 }

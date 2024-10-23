@@ -1,25 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\academymanagement\\academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\academymanagement\\academymanagement\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\academymanagement\\academymanagement\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\academymanagement\\academymanagement\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\academymanagement\\academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\academymanagement\\academymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\academymanagement\\academymanagement\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\academymanagement\\academymanagement\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA1E8A00-A7CA-4698-A001-743AB01DD575}|AcademyManagement\\AcademyManagement.csproj|solutionrelative:academymanagement\\models\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,71 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\App.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\App.cs",
               "RelativeDocumentMoniker": "AcademyManagement\\Models\\App.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\App.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\App.cs",
               "RelativeToolTip": "AcademyManagement\\Models\\App.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwEAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T12:58:34.451Z",
+              "WhenOpened": "2024-10-23T22:19:56.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Program.cs",
               "RelativeDocumentMoniker": "AcademyManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Program.cs",
               "RelativeToolTip": "AcademyManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:19:31.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\StudentService.cs",
               "RelativeDocumentMoniker": "AcademyManagement\\Models\\StudentService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\StudentService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\StudentService.cs",
               "RelativeToolTip": "AcademyManagement\\Models\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvzwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:31:43.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Interfaces\\IStudentService.cs",
-              "RelativeDocumentMoniker": "AcademyManagement\\Interfaces\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Interfaces\\IStudentService.cs",
-              "RelativeToolTip": "AcademyManagement\\Interfaces\\IStudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T12:20:44.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "AcademyManagement\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\AcademyManagement\\AcademyManagement\\Models\\Student.cs",
-              "RelativeToolTip": "AcademyManagement\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T12:20:18.319Z",
               "EditorCaption": ""
             }
           ]

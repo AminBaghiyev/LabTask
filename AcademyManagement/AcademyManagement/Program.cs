@@ -25,9 +25,25 @@ internal class Program
                 case "0":
                     App.CreateStudentPage(studentService);
                     break;
+
+                case "1":
+                    App.GetStudentByIdPage(studentService);
+                    break;
                 
                 case "2":
                     App.GetAllStudentsPage(studentService);
+                    break;
+
+                case "3":
+                    App.GetStudentsByNamePage(studentService);
+                    break;
+
+                case "4":
+                    App.UpdateStudentPage(studentService);
+                    break;
+
+                case "5":
+                    App.RemoveStudentPage(studentService);
                     break;
 
                 default:
