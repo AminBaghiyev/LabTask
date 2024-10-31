@@ -1,0 +1,15 @@
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.exe
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.deps.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.sourcelink.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\refint\HospitalManagementSystem.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\HospitalManagementSystem\HospitalManagementSystem\obj\Debug\net8.0\ref\HospitalManagementSystem.dll
