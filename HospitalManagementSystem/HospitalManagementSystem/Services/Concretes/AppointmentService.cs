@@ -45,6 +45,19 @@ internal class AppointmentService : IAppointmentService
         throw new NotFoundAppointment();
     }
 
+    public List<Appointment> GetAppointmentsByDateRange(DateTime start, DateTime end)
+    {
+        List<Appointment> appointmentsByDateRange = [];
+        foreach (var appointment in _appointments)
+        {
+            if (appointment.StartDate >= start && appointment.StartDate <= end)
+            {
+                appointmentsByDateRange.Add(appointment);
+            }
+        }
+        return appointmentsByDateRange;
+    }
+
     public List<Appointment> GetTodaysAppointments()
     {
         List<Appointment> todaysAppointments = [];

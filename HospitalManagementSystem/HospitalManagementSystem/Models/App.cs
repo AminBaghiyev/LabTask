@@ -21,15 +21,16 @@ internal class App
         Console.WriteLine("4 -> See this week's appointments");
         Console.WriteLine("5 -> See today's appointments");
         Console.WriteLine("6 -> See pending appointments");
-        ErrorMessage("7 -> Quit App");
+        Console.WriteLine("7 -> See appointments within a specific date range");
+        ErrorMessage("0 -> Quit App");
         Console.WriteLine();
     }
 
     public static void FooterSection()
     {
         Console.WriteLine("\n1 -> To go to the home page");
-        ErrorMessage("7 -> Quit App\n");
-        string input = InfiniteInput(["1", "7"], errorMessage: "Enter the right commands!");
+        ErrorMessage("0 -> Quit App\n");
+        string input = InfiniteInput(["1", "0"], errorMessage: "Enter the right commands!");
         Console.Clear();
 
         switch (input)
@@ -37,7 +38,7 @@ internal class App
             case "1":
                 return;
 
-            case "7":
+            case "0":
                 Environment.Exit(0);
                 break;
         }
@@ -139,6 +140,31 @@ internal class App
         if (appointments.Count == 0) throw new NotFoundAppointment();
 
         HeaderMessage("Pending Appointments");
+
+        foreach (var appointment in appointments)
+        {
+            Console.WriteLine();
+            appointment.DisplayInfo();
+        }
+
+        FooterSection();
+    }
+
+    public void SeeAppointmentsByDateRange()
+    {
+        HeaderMessage("Appointments By Date Range");
+
+        Console.Write("Start date (format: \"dd.MM.yyyy\"): ");
+        DateTime.TryParse(Console.ReadLine(), out DateTime startDate);
+        Console.Write("End date (format: \"dd.MM.yyyy\"): ");
+        DateTime.TryParse(Console.ReadLine(), out DateTime endDate);
+        Console.Clear();
+
+        List<Appointment> appointments = _appointmentService.GetAppointmentsByDateRange(startDate, endDate);
+
+        if (appointments.Count == 0) throw new NotFoundAppointment();
+
+        HeaderMessage($"{startDate:dd.MM.yyyy} - {endDate:dd.MM.yyyy} Appointments");
 
         foreach (var appointment in appointments)
         {

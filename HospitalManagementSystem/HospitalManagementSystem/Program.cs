@@ -46,6 +46,10 @@ internal class Program
                         break;
 
                     case "7":
+                        app.SeeAppointmentsByDateRange();
+                        break;
+
+                    case "0":
                         return;
 
                     default:

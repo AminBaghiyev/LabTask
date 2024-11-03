@@ -11,4 +11,5 @@ internal interface IAppointmentService
     List<Appointment> GetWeeklyAppointments();
     List<Appointment> GetTodaysAppointments();
     List<Appointment> GetAllContinuingAppointments();
+    List<Appointment> GetAppointmentsByDateRange(DateTime start, DateTime end);
 }
