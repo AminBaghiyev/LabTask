@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SliderItem>
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Slider Items</h4>
+                <a class="btn btn-primary" asp-area="Admin" asp-controller="Slider" asp-action="Add">+ Add Slider Item</a>
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    Id
+                                </th>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Description
+                                </th>
+                                <th>
+                                    Offer
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>Edit</th>
+                                <th>Remove</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (SliderItem item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Id
+                                    </td>
+                                    <td>
+                                        @item.Title
+                                    </td>
+                                    <td>
+                                        @item.ShortDesc
+                                    </td>
+                                    <td>
+                                        @item.Offer %
+                                    </td>
+                                    <td>
+                                        <img src="~/assets/images/slider/inner-img/@item.ImagePath" alt="image">
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-primary" asp-area="Admin" asp-controller="Slider" asp-action="Edit" asp-route-id="@item.Id">
+                                            Edit
+                                        </a>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-area="Admin" asp-controller="Slider" asp-action="Remove" asp-route-id="@item.Id">
+                                            Remove
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

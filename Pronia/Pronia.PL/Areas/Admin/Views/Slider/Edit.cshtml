@@ -1,0 +1,35 @@
+﻿@model SliderItem
+
+<div class="row">
+    <div class="col-lg-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Edit Slider Item</h4>
+                <form asp-area="Admin" asp-controller="Slider" asp-action="Edit" method="post">
+                    <input type="hidden" asp-for="Id" />
+                    <div class="form-group">
+                        <label asp-for="Title">Title</label>
+                        <input class="form-control" asp-for="Title" placeholder="Enter title">
+                        <span asp-validation-for="Title"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ShortDesc">Description</label>
+                        <input class="form-control" asp-for="ShortDesc" placeholder="Enter description">
+                        <span asp-validation-for="ShortDesc"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Offer">Offer</label>
+                        <input class="form-control" asp-for="Offer" placeholder="Enter offer">
+                        <span asp-validation-for="Offer"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ImagePath">Image Path</label>
+                        <input class="form-control" asp-for="ImagePath" placeholder="Enter path">
+                        <span asp-validation-for="ImagePath"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
