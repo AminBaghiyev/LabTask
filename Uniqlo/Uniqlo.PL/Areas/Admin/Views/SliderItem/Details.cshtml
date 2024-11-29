@@ -1,0 +1,11 @@
+﻿@model SliderItem
+
+<div class="container">
+    <h1>@Model.Title</h1>
+    <p>Button Label: @Model.ButtonText</p>
+    <a href="@Model.Url">@Model.Url</a>
+    <img class="d-block" src="~/images/bg/@Model.BackgroundImagePath" alt="@Model.Title" />
+    <p>Deleted: @Model.IsDeleted</p>
+    <p>Create Time: @Model.CreatedAt</p>
+    <p>Last Modified Time: @Model.UpdatedAt</p>
+</div>
