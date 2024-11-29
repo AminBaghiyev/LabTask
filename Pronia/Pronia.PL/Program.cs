@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(
-    options => options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")
+    options => options.UseSqlServer(builder.Configuration.GetConnectionString("local")
 ));
 builder.Services.AddScoped<ISliderItemService, SliderItemService>();
 
