@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="ViewComponents\" />
     <Folder Include="wwwroot\images\about\" />
     <Folder Include="wwwroot\images\payment\" />
   </ItemGroup>

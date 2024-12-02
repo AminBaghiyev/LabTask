@@ -3,62 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\slideritem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\slideritem\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\slideritem\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51DA7F5C-590C-434D-9B6B-7287D0931D47}|Uniqlo.BL\\Uniqlo.BL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.bl\\services\\abstractions\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51DA7F5C-590C-434D-9B6B-7287D0931D47}|Uniqlo.BL\\Uniqlo.BL.csproj|solutionrelative:uniqlo.bl\\services\\abstractions\\slideritemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\slideritem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\controllers\\slideritemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\uniqlo\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,201 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:55:10.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:51:35.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SliderItemService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.BL\\Services\\Abstractions\\SliderItemService.cs",
-              "RelativeDocumentMoniker": "Uniqlo.BL\\Services\\Abstractions\\SliderItemService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.BL\\Services\\Abstractions\\SliderItemService.cs",
-              "RelativeToolTip": "Uniqlo.BL\\Services\\Abstractions\\SliderItemService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:49:19.394Z",
+              "WhenOpened": "2024-12-02T15:08:58.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\SliderItem\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAACTAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:32:47.168Z",
+              "WhenOpened": "2024-12-02T15:08:52.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T15:07:26.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SliderItemController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\SliderItemController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Controllers\\SliderItemController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\SliderItemController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Controllers\\SliderItemController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAmwFkAAAAnAAAAAAAAAA==",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:32:19.676Z",
+              "WhenOpened": "2024-12-02T14:51:48.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T14:04:03.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwFAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:03:38.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:01:20.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T14:00:18.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "blog.html",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\blog.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\uniqlo\\blog.html",
-              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\blog.html",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\uniqlo\\blog.html",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADMBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-29T13:59:35.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T13:56:14.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "about.html",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\about.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\uniqlo\\about.html",
-              "ToolTip": "C:\\Users\\II Novbe\\Downloads\\uniqlo\\about.html",
-              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\uniqlo\\about.html",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADQBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-29T13:55:34.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Uniqlo.PL\\Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAwwBcBAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T13:55:24.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:55:17.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Uniqlo.PL\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Uniqlo.PL\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:46:52.364Z",
+              "WhenOpened": "2024-12-02T14:51:42.88Z",
               "EditorCaption": ""
             }
           ]

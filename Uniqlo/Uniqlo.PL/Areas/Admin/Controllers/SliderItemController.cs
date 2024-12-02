@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Uniqlo.BL.Services.Concretes;
+using Uniqlo.BL.Services.Abstractions;
 using Uniqlo.DAL.Models;
 
 namespace Uniqlo.PL.Areas.Admin.Controllers;

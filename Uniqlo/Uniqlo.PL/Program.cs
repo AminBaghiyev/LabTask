@@ -9,6 +9,8 @@ builder.Services.AddDbContext<AppDbContext>(
     options => options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"))
 );
 builder.Services.AddScoped<ISliderItemService, SliderItemService>();
+builder.Services.AddScoped(typeof(IBaseService<>), typeof(BaseService<>));
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 app.UseStaticFiles();

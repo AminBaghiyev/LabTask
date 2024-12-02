@@ -1,6 +1,6 @@
 ﻿using Uniqlo.DAL.Models;
 
-namespace Uniqlo.BL.Services.Concretes;
+namespace Uniqlo.BL.Services.Abstractions;
 
 public interface ISliderItemService
 {

@@ -1,0 +1,41 @@
+﻿@model Category
+
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Category Info</h6>
+        </div>
+        <div class="card-body">
+            <h1>@Model.Title</h1>
+            <p>Id: @Model.Id</p>
+            <p>Deleted: @Model.IsDeleted</p>
+            <p>Create Time: @Model.CreatedAt</p>
+            <p>Last Modified Time: @Model.UpdatedAt</p>
+            <div class="table-responsive">
+                <table class="table table-bordered" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Title</th>
+                            <th>Old Price</th>
+                            <th>New Price</th>
+                            <th>Deleted</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Product item in Model.Products)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Title</td>
+                                <td>@item.OldPrice</td>
+                                <td>@item.NewPrice</td>
+                                <td>@item.IsDeleted</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

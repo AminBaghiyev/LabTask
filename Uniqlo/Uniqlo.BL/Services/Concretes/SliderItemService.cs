@@ -1,9 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Uniqlo.BL.Services.Concretes;
+using Uniqlo.BL.Services.Abstractions;
 using Uniqlo.DAL.Contexts;
 using Uniqlo.DAL.Models;
 
-namespace Uniqlo.BL.Services.Abstractions;
+namespace Uniqlo.BL.Services.Concretes;
 
 public class SliderItemService : ISliderItemService
 {
