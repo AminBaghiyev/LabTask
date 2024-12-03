@@ -17,9 +17,7 @@ public class ProductVM
 
     [Display(Name = "New Price")]
     public double NewPrice { get; set; }
-
-    [Display(Name = "Thumbnail Path")]
-    public string ThumbnailPath { get; set; }
+    public IFormFile Thumbnail { get; set; }
     public int CategoryId { get; set; }
 
     [ValidateNever]
@@ -33,7 +31,6 @@ public class ProductVM
             Title = item.Title,
             OldPrice = item.OldPrice,
             NewPrice = item.NewPrice,
-            ThumbnailPath = item.ThumbnailPath,
             CategoryId = item.CategoryId
         };
     }

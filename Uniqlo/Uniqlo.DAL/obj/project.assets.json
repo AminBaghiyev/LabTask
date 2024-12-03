@@ -4007,24 +4007,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.DAL\\Uniqlo.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\Uniqlo.DAL\\Uniqlo.DAL.csproj",
       "projectName": "Uniqlo.DAL",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.DAL\\Uniqlo.DAL.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.DAL\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\Uniqlo.DAL\\Uniqlo.DAL.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\Uniqlo.DAL\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

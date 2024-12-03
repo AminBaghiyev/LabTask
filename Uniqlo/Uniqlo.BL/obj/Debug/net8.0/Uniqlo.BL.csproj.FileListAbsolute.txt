@@ -14,3 +14,19 @@ C:\Users\II Novbe\Desktop\AB 205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniql
 C:\Users\II Novbe\Desktop\AB 205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\refint\Uniqlo.BL.dll
 C:\Users\II Novbe\Desktop\AB 205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.pdb
 C:\Users\II Novbe\Desktop\AB 205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\ref\Uniqlo.BL.dll
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\bin\Debug\net8.0\Uniqlo.BL.deps.json
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\bin\Debug\net8.0\Uniqlo.BL.dll
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\bin\Debug\net8.0\Uniqlo.BL.pdb
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\bin\Debug\net8.0\Uniqlo.DAL.dll
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\bin\Debug\net8.0\Uniqlo.DAL.pdb
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.AssemblyInfo.cs
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.sourcelink.json
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.csproj.Up2Date
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.dll
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\refint\Uniqlo.BL.dll
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\Uniqlo.BL.pdb
+C:\Users\USER\Desktop\AB205\LabTask\Uniqlo\Uniqlo.BL\obj\Debug\net8.0\ref\Uniqlo.BL.dll

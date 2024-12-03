@@ -10,11 +10,13 @@ public class ProductController : Controller
 {
     readonly IBaseService<Category> _categoryManager;
     readonly IProductService _productManager;
+    readonly IWebHostEnvironment _webHostEnvironment;
 
-    public ProductController(IBaseService<Category> categoryManager, IProductService productManager)
+    public ProductController(IBaseService<Category> categoryManager, IProductService productManager, IWebHostEnvironment webHostEnvironment)
     {
         _categoryManager = categoryManager;
         _productManager = productManager;
+        _webHostEnvironment = webHostEnvironment;
     }
 
     public async Task<IActionResult> Index()
@@ -47,12 +49,37 @@ public class ProductController : Controller
             return View(VM);
         }
 
+        if (formProduct.Thumbnail.Length >= 1 * 1024 * 1024)
+        {
+            ProductVM VM = new()
+            {
+                Categories = new(await _categoryManager.GetAllCurrentAsync(), nameof(Category.Id), nameof(Category.Title))
+            };
+
+            ModelState.AddModelError("Thumbnail", "The size of the photo must be less than 1 MB.");
+
+            return View(VM);
+        }
+
+        string uploadsPath = Path.Combine(_webHostEnvironment.WebRootPath, "images", "uploads", "products");
+        string thumbnailPath =
+            Path.GetFileNameWithoutExtension(formProduct.Thumbnail.FileName) +
+            Guid.NewGuid().ToString() +
+            Path.GetExtension(formProduct.Thumbnail.FileName);
+
+        if (!Directory.Exists(uploadsPath)) Directory.CreateDirectory(uploadsPath);
+
+        using (FileStream img = new(Path.Combine(uploadsPath, thumbnailPath), FileMode.Create))
+        {
+            await formProduct.Thumbnail.CopyToAsync(img);
+        }
+
         Product product = new()
         {
             Title = formProduct.Title,
             OldPrice = formProduct.OldPrice,
             NewPrice = formProduct.NewPrice,
-            ThumbnailPath = formProduct.ThumbnailPath,
+            ThumbnailPath = thumbnailPath,
             CategoryId = formProduct.CategoryId
         };
 
@@ -65,7 +92,7 @@ public class ProductController : Controller
     {
         Product? product = await _productManager.GetByIdAsync(Id);
 
-        if (product == null)
+        if (product is null)
         {
             return RedirectToAction(nameof(Index));
         }
@@ -77,7 +104,6 @@ public class ProductController : Controller
             Title = product.Title,
             OldPrice = product.OldPrice,
             NewPrice = product.NewPrice,
-            ThumbnailPath = product.ThumbnailPath,
             CategoryId = product.CategoryId
         };
 
@@ -98,7 +124,6 @@ public class ProductController : Controller
             Title = formProduct.Title,
             OldPrice = formProduct.OldPrice,
             NewPrice = formProduct.NewPrice,
-            ThumbnailPath = formProduct.ThumbnailPath,
             CategoryId = formProduct.CategoryId
         };
 
@@ -131,7 +156,7 @@ public class ProductController : Controller
     public async Task<IActionResult> Details(int Id)
     {
         Product? product = await _productManager.GetByIdAsNoTrackingAsync(Id);
-        if (product == null)
+        if (product is null)
         {
             return RedirectToAction(nameof(Index));
         }

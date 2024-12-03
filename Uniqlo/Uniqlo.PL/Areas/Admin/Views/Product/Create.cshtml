@@ -1,7 +1,7 @@
 ﻿@using Uniqlo.PL.Areas.Admin.ViewModels.ProductVMs
 @model ProductVM
 
-<form asp-action=@(Model.Id == 0 ? "Create" : "Update") class="container" method="POST">
+<form asp-action=@(Model.Id == 0 ? "Create" : "Update") enctype="multipart/form-data" class="container" method="POST">
     <h2 class="my-4">@(Model.Id == 0 ? "Add" : "Update") Product</h2>
     <div class="mb-3">
         <label class="form-label" asp-for="Title"></label>
@@ -19,9 +19,9 @@
         <span class="text-danger" asp-validation-for="NewPrice"></span>
     </div>
     <div class="mb-3">
-        <label class="form-label" asp-for="ThumbnailPath"></label>
-        <input class="form-control" asp-for="ThumbnailPath" />
-        <span class="text-danger" asp-validation-for="ThumbnailPath"></span>
+        <label class="form-label" asp-for="Thumbnail"></label>
+        <input class="form-control-file" asp-for="Thumbnail" />
+        <span class="text-danger" asp-validation-for="Thumbnail"></span>
     </div>
     <div class="mb-3">
         <select class="custom-select" asp-for="CategoryId" asp-items="Model.Categories">

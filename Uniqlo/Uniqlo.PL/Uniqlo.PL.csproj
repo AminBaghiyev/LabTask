@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="ViewComponents\" />
+    <Compile Remove="ViewComponents\**" />
+    <Content Remove="ViewComponents\**" />
+    <EmbeddedResource Remove="ViewComponents\**" />
+    <None Remove="ViewComponents\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\images\about\" />
     <Folder Include="wwwroot\images\payment\" />
   </ItemGroup>
