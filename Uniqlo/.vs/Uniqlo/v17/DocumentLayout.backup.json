@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\uniqlo\\uniqlo.pl\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCB3E803-D070-439B-9637-1E5D613D4D25}|Uniqlo.PL\\Uniqlo.PL.csproj|solutionrelative:uniqlo.pl\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\Uniqlo\\Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Uniqlo.PL\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwEMAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T23:06:43.505Z",
+              "WhenOpened": "2024-12-04T12:41:46.893Z",
               "EditorCaption": ""
             }
           ]

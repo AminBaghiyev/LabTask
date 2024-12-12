@@ -2,6 +2,8 @@
 using Uniqlo.BL.Services.Abstractions;
 using Uniqlo.DAL.Models;
 using Uniqlo.PL.Areas.Admin.ViewModels.ProductVMs;
+using Uniqlo.BL.Services.Concretes;
+using Uniqlo.BL.Utilities;
 
 namespace Uniqlo.PL.Areas.Admin.Controllers;
 
@@ -49,30 +51,31 @@ public class ProductController : Controller
             return View(VM);
         }
 
-        if (formProduct.Thumbnail.Length >= 1 * 1024 * 1024)
+        if (!formProduct.Thumbnail.CheckType("image"))
         {
             ProductVM VM = new()
             {
                 Categories = new(await _categoryManager.GetAllCurrentAsync(), nameof(Category.Id), nameof(Category.Title))
             };
 
-            ModelState.AddModelError("Thumbnail", "The size of the photo must be less than 1 MB.");
+            ModelState.AddModelError("Thumbnail", "File must be image!");
 
             return View(VM);
         }
 
-        string uploadsPath = Path.Combine(_webHostEnvironment.WebRootPath, "images", "uploads", "products");
-        string thumbnailPath =
-            Path.GetFileNameWithoutExtension(formProduct.Thumbnail.FileName) +
-            Guid.NewGuid().ToString() +
-            Path.GetExtension(formProduct.Thumbnail.FileName);
-
-        if (!Directory.Exists(uploadsPath)) Directory.CreateDirectory(uploadsPath);
-
-        using (FileStream img = new(Path.Combine(uploadsPath, thumbnailPath), FileMode.Create))
+        if (!formProduct.Thumbnail.CheckSize(5, FileSizeTypes.Mb))
         {
-            await formProduct.Thumbnail.CopyToAsync(img);
+            ProductVM VM = new()
+            {
+                Categories = new(await _categoryManager.GetAllCurrentAsync(), nameof(Category.Id), nameof(Category.Title))
+            };
+
+            ModelState.AddModelError("Thumbnail", "The size of the photo must be less than 5 MB.");
+
+            return View(VM);
         }
+
+        string thumbnailPath = await formProduct.Thumbnail.SaveAsync(_webHostEnvironment.WebRootPath, "productImages");
 
         Product product = new()
         {
