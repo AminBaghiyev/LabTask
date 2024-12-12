@@ -1,0 +1,23 @@
+﻿@model Game
+
+<div class="container">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Game Details</h6>
+        </div>
+        <div class="card-body">
+            <p>ID: @Model.Id</p>
+            <p>Game ID: @Model.GameId</p>
+            <p>Name: @Model.Name</p>
+            <p>Description: @Model.Description</p>
+            <p>Price: @Model.Price</p>
+            <p>Deleted: @Model.IsDeleted</p>
+            <p>Created Time: @Model.CreatedAt</p>
+            <p>Last Modified Time: @Model.UpdatedAt</p>
+            @if (Model.ThumbnailPath != "")
+            {
+                <img src="~/uploads/games/@Model.ThumbnailPath" alt="@Model.Name" />
+            }
+        </div>
+    </div>
+</div>

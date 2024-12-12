@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Game>
+
+<!-- Begin Page Content -->
+<div class="container-fluid">
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Games</h6>
+        </div>
+        <div class="d-flex justify-content-end px-3">
+            <a class="btn btn-primary mt-3" style="width: 160px" asp-controller="Game" asp-action="Create">+ Add Game</a>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>GameID</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Deleted</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Game item in Model)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.GameId</td>
+                                <td>@item.Name</td>
+                                <td>@item.Price</td>
+                                <td>@item.IsDeleted</td>
+                                <td>
+                                    <a class="btn btn-primary" asp-controller="Game" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                    <a class="btn btn-danger" asp-controller="Game" asp-action="HardDelete" asp-route-id="@item.Id">Hard Delete</a>
+                                    @if (item.IsDeleted)
+                                    {
+                                        <a class="btn btn-success" asp-controller="Game" asp-action="Recover" asp-route-id="@item.Id">Recover</a>
+                                    }
+                                    else
+                                    {
+                                        <a class="btn btn-danger" asp-controller="Game" asp-action="SoftDelete" asp-route-id="@item.Id">Soft Delete</a>
+                                    }
+                                    <a class="btn btn-info" asp-controller="Game" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.container-fluid -->
+<!-- Page level plugins -->
+<script src="~/admin/vendor/datatables/jquery.dataTables.min.js" defer></script>
+<script src="~/admin/vendor/datatables/dataTables.bootstrap4.min.js" defer></script>
+
+<!-- Page level custom scripts -->
+<script src="~/admin/js/demo/datatables-demo.js" defer></script>
