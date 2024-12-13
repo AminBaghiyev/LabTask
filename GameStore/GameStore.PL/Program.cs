@@ -11,6 +11,7 @@ builder.Services.AddDbContext<AppDbContext>(
 );
 
 builder.Services.AddScoped(typeof(IBaseAuditableService<>), typeof(BaseAuditableService<>));
+builder.Services.AddScoped<IGameService, GameService>();
 
 var app = builder.Build();
 app.UseStaticFiles();

@@ -9,4 +9,5 @@ public class Game : BaseAuditableEntity
     public string Description { get; set; }
     public decimal Price { get; set; }
     public string ThumbnailPath { get; set; }
+    public ICollection<Review> Reviews { get; set; }
 }

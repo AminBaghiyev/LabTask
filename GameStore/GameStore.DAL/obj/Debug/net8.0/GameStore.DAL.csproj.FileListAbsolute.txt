@@ -13,3 +13,18 @@ C:\Users\USER\Desktop\AB205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\ref
 C:\Users\USER\Desktop\AB205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.pdb
 C:\Users\USER\Desktop\AB205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.genruntimeconfig.cache
 C:\Users\USER\Desktop\AB205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\ref\GameStore.DAL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.deps.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.runtimeconfig.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\bin\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.sourcelink.json
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\refint\GameStore.DAL.dll
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.pdb
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\GameStore.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\Desktop\AB 205\LabTask\GameStore\GameStore.DAL\obj\Debug\net8.0\ref\GameStore.DAL.dll
