@@ -1,0 +1,230 @@
+﻿/* Cart Table Area */
+.cart-table {
+    width: 100%;
+}
+.cart-table-area {
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.cart-title h2 {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #333;
+    border-spacing: 20px; /* Add spacing between table cells */
+}
+
+    .table th {
+        text-align: center;
+        vertical-align: middle;
+        border-top: 1px solid #dee2e6;
+        background-color: #f8f9fa; /* Add background color for visibility */
+    }
+
+    .table td {
+        text-align: center;
+        vertical-align: middle;
+        border-top: 1px solid #dee2e6;
+        background-color: #f8f9fa; /* Add background color for visibility */
+    }
+
+    .table th {
+        font-weight: 500;
+    }
+
+    .table img {
+        width: 80px;
+        height: 80px;
+        border-radius: 8px;
+    }
+
+.qty-btn {
+    display: flex;
+    align-items: center;
+}
+
+    .qty-btn p {
+        margin: 0 10px 0 0;
+    }
+
+.quantity {
+    display: flex;
+    align-items: center;
+}
+
+.qty-minus, .qty-plus {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-color: #f0f0f0;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+.qty-text {
+    width: 50px;
+    text-align: center;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    margin: 0 5px;
+}
+
+/* Cart Summary */
+.cart-summary {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+}
+
+    .cart-summary h5 {
+        font-size: 18px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+
+.summary-table {
+    list-style: none;
+    padding: 0;
+}
+
+    .summary-table li {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 0;
+        border-bottom: 1px solid #dee2e6;
+    }
+
+        .summary-table li:last-child {
+            border-bottom: none;
+        }
+
+.cart-btn {
+    margin-top: 50px;
+}
+
+    .cart-btn .btn {
+        display: block;
+        width: 100%;
+        background-color: #007bff;
+        color: #ffffff;
+        padding: 15px;
+        text-align: center;
+        font-size: 16px;
+        font-weight: 500;
+        border: none;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+
+        .cart-btn .btn:hover {
+            background-color: #0056b3;
+        }
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .container-fluid {
+        padding: 15px;
+    }
+
+    .cart-table-area {
+        padding: 20px;
+    }
+
+    .cart-title h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .table {
+        border-spacing: 10px;
+    }
+
+        .table th, .table td {
+            padding-left: 10px;
+        }
+
+        .table th, .table td {
+            font-size: 14px;
+        }
+
+        .table img {
+            width: 60px;
+            height: 60px;
+        }
+
+    .qty-btn {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .quantity {
+        margin-top: 10px;
+    }
+
+    .qty-minus, .qty-plus {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+    }
+
+    .qty-text {
+        width: 40px;
+    }
+
+    .cart-summary {
+        margin-top: 30px;
+    }
+
+        .cart-summary h5 {
+            font-size: 16px;
+        }
+
+    .summary-table li {
+        padding: 8px 0;
+    }
+
+    .cart-btn {
+        margin-top: 30px;
+    }
+
+        .cart-btn .btn {
+            padding: 10px;
+            font-size: 14px;
+        }
+}
+
+.alert {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    display: none;
+    z-index: 9999;
+}
+.alert.danger {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+.alert.success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}

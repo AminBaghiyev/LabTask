@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\gamestore\\gamestore.pl\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\gamestore\\gamestore.pl\\wwwroot\\assets\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\gamestore\\gamestore.pl\\wwwroot\\assets\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\wwwroot\\assets\\js\\game.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\ii novbe\\desktop\\ab 205\\labtask\\gamestore\\gamestore.pl\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\gamestore\\gamestore.pl\\wwwroot\\assets\\css\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\wwwroot\\assets\\css\\game.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\gamestore\\gamestore.pl\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\gamestore\\gamestore.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|c:\\users\\user\\desktop\\ab205\\labtask\\gamestore\\gamestore.pl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{25E64C9E-C51F-4CF4-A158-40EEA552B46F}|GameStore.PL\\GameStore.PL.csproj|solutionrelative:gamestore.pl\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "game.js",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\js\\game.js",
-              "RelativeDocumentMoniker": "GameStore.PL\\wwwroot\\assets\\js\\game.js",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\js\\game.js",
-              "RelativeToolTip": "GameStore.PL\\wwwroot\\assets\\js\\game.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-13T12:44:37.618Z",
+              "Title": "game.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\css\\game.css",
+              "RelativeDocumentMoniker": "GameStore.PL\\wwwroot\\assets\\css\\game.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\css\\game.css",
+              "RelativeToolTip": "GameStore.PL\\wwwroot\\assets\\css\\game.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T17:10:09.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\Views\\Game\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "GameStore.PL\\Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFYAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:14:59.277Z",
+              "Title": "game.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\js\\game.js",
+              "RelativeDocumentMoniker": "GameStore.PL\\wwwroot\\assets\\js\\game.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\wwwroot\\assets\\js\\game.js",
+              "RelativeToolTip": "GameStore.PL\\wwwroot\\assets\\js\\game.js",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-15T16:04:18.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "GameStore.PL\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\AB 205\\LabTask\\GameStore\\GameStore.PL\\Controllers\\GameController.cs",
-              "RelativeToolTip": "GameStore.PL\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:14:34.356Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T16:02:27.369Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GameStore.PL\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GameStore.PL\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:31:24.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.PL\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\AB205\\LabTask\\GameStore\\GameStore.PL\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GameStore.PL\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwFUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T12:31:38.323Z"
             }
           ]
         }

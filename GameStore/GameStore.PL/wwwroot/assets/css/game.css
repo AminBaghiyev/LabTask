@@ -1,0 +1,25 @@
+﻿#reviews #comments {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+#reviews #comments .comment-container {
+    display: flex;
+    justify-content: space-between;
+    background: white;
+    padding: 12px 24px;
+    border-radius: 25px;
+    gap: 10px;
+}
+
+#reviews #comments .comment {
+    word-break: break-word;
+}
+
+#reviews #comments .created-at {
+    color: grey;
+    font-size: 14px;
+    white-space: nowrap;
+}

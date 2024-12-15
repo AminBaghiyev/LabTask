@@ -1,0 +1,87 @@
+﻿@model CartVM
+@{
+    ViewBag.Title = "Cart";
+}
+
+<div class="page-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3>Cart</h3>
+                <span class="breadcrumb"><a asp-controller="Home" asp-action="Index">Home</a> &gt; Cart</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section cart">
+    <div class="container">
+        <div class="cart-table-area section-padding-100">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12 col-lg-8">
+                        <div class="cart-title mt-50">
+                            <h2>Shopping Cart</h2>
+                        </div>
+
+                        <div class="cart-table clearfix">
+                            <table class="table table-responsive">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>Game</th>
+                                        <th>Name</th>
+                                        <th>Price</th>
+                                        <th>Quantity</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (Game game in Model.Games)
+                                    {
+                                        <tr class="cart-item">
+                                            <td>
+                                                <button class="btn btn-danger remove-all-cart-btn" data-id="@game.Id" data-price="@game.Price">&#10006;</button>
+                                            </td>
+                                            <td class="cart_product_img">
+                                                <a asp-controller="Game" asp-action="Index" asp-route-id="@game.Id"><img src="~/uploads/games/@game.ThumbnailPath" alt="@game.Name"></a>
+                                            </td>
+                                            <td class="cart_product_desc">
+                                                <h3 style="font-size: 20px;">@game.Name</h3>
+                                            </td>
+                                            <td class="price">
+                                                <span>$ @game.Price</span>
+                                            </td>
+                                            <td class="qty">
+                                                <div class="qty-btn d-flex justify-content-center">
+
+                                                    <div class="quantity">
+                                                        <span class="qty-minus remove-cart-btn" data-id="@game.Id" data-price="@game.Price"><i class="fa fa-minus" aria-hidden="true"></i></span>
+                                                        <input readonly type="number" class="qty-text" step="1" min="1" name="quantity" value="@Model.Quantities[game.Id]">
+                                                        <span class="qty-plus add-cart-btn" data-id="@game.Id" data-price="@game.Price"><i class="fa fa-plus" aria-hidden="true"></i></span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4">
+                        <div class="cart-summary">
+                            <h5>Cart Total</h5>
+                            <ul class="summary-table">
+                                <li><span>Subtotal:</span> <span id="subtotal">$ @Model.Subtotal.ToString("F2")</span></li>
+                                <li><span>Delivery:</span> <span>Free</span></li>
+                                <li><span>Total:</span> <span id="total">$ @Model.Subtotal.ToString("F2")</span></li>
+                            </ul>
+                            <div class="cart-btn mt-100">
+                                <a href="/game/checkout" class="btn amado-btn w-100">Checkout</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

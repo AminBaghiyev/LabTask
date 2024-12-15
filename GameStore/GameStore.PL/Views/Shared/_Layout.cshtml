@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Lugx Gaming Shop HTML5 Template</title>
+    <title>@(ViewBag.Title ?? "LugX")</title>
 
     <!-- Bootstrap core CSS -->
     <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="~/assets/css/templatemo-lugx-gaming.css">
     <link rel="stylesheet" href="~/assets/css/owl.css">
     <link rel="stylesheet" href="~/assets/css/animate.css">
+    <link rel="stylesheet" href="~/assets/css/cart.css">
+    <link rel="stylesheet" href="~/assets/css/game.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
     <!--
 
@@ -55,9 +57,9 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+                            <li><a asp-controller="Home" asp-action="Index" class="@(ViewBag.Title is null ? "active" : "")">Home</a></li>
                             <li><a href="shop.html">Our Shop</a></li>
-                            <li><a href="product-details.html">Product Details</a></li>
+                            <li><a asp-controller="Cart" asp-action="Index" class="@(ViewBag.Title == "Cart" ? "active" : "")">Cart</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                             <li><a href="#">Sign In</a></li>
                         </ul>
@@ -75,7 +77,7 @@
     <footer>
         <div class="container">
             <div class="col-lg-12">
-                <p>Copyright © @DateTime.Now.Year LUGX Gaming Company. All rights reserved. &nbsp;&nbsp; <a rel="nofollow" href="https://templatemo.com" target="_blank">Design: TemplateMo</a></p>
+                <p>Copyright © @DateTime.Now.Year LUGX Gaming Company. All rights reserved.</p>
             </div>
         </div>
     </footer>
@@ -85,9 +87,12 @@
     <script src="~/vendor/jquery/jquery.min.js"></script>
     <script src="~/vendor/bootstrap/js/bootstrap.min.js"></script>
     <script src="~/assets/js/isotope.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="~/assets/js/owl-carousel.js"></script>
     <script src="~/assets/js/counter.js"></script>
     <script src="~/assets/js/custom.js"></script>
+    <script src="~/assets/js/cart.js"></script>
+    <script src="~/assets/js/game.js"></script>
 
 </body>
 </html>
