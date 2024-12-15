@@ -61,7 +61,16 @@
                             <li><a href="shop.html">Our Shop</a></li>
                             <li><a asp-controller="Cart" asp-action="Index" class="@(ViewBag.Title == "Cart" ? "active" : "")">Cart</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="#">Sign In</a></li>
+                            @if (User.Identity is null || !User.Identity.IsAuthenticated)
+                            {
+                                <li><a asp-controller="Account" asp-action="Login">Login</a></li>
+                            } else if (User.IsInRole(Roles.Admin.ToString()))
+                            {
+                                <li><a class="username" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">@User.Identity.Name</a></li>
+                            } else
+                            {
+                                <li><a class="username" asp-controller="Account" asp-action="Logout">@User.Identity.Name</a></li>
+                            }
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>

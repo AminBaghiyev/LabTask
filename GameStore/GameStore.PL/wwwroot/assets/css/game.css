@@ -6,16 +6,15 @@
 }
 
 #reviews #comments .comment-container {
-    display: flex;
-    justify-content: space-between;
     background: white;
     padding: 12px 24px;
     border-radius: 25px;
-    gap: 10px;
 }
 
 #reviews #comments .comment {
+    margin-top: 5px;
     word-break: break-word;
+    margin-left: 15px;
 }
 
 #reviews #comments .created-at {

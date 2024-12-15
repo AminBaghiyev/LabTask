@@ -1,6 +1,7 @@
 ﻿using GameStore.BL.Services.Abstractions;
 using GameStore.DAL.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace GameStore.PL.Controllers;
 
@@ -28,12 +29,18 @@ public class GameController : Controller
     [HttpPost]
     public async Task<IActionResult> AddComment(int id, string comment)
     {
+        if (User.Identity is null || !User.Identity.IsAuthenticated)
+        {
+            return Unauthorized();
+        }
+
         Game? game = await _gameManager.GetByIdAsNoTrackingAsync(id);
         if (game is null) return NotFound();
-
+        
         Review review = new()
         {
             Comment = comment,
+            UserId = User.FindFirstValue(ClaimTypes.NameIdentifier),
             GameId = id
         };
 
